@@ -9,4 +9,5 @@ sorry for all the mac and linux users but I do not know if this program can work
 
 #### How to run through Command Line:
 CD into the TheGrossInator folder
+
 Type in ```python OhGross.py```
