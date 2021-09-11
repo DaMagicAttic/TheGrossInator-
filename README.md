@@ -6,3 +6,7 @@ This is a little program I made that lets the user any input they want and the p
 sorry for all the mac and linux users but I do not know if this program can work on either platforms, in theory it should but I have only tested it on Windows
 
 ## I recommend running this program on the Command Line and VSCode
+
+#### How to run through Command Line:
+CD into the TheGrossInator folder
+Type in ```python OhGross.py```
